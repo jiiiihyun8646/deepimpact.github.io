@@ -1,2 +1,0 @@
-import stramlit as st
-st.text("hello streamlit")
